@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Sara Feitosa
+#  Olá! Eu sou Sara Feitosa
 
 **Aspiring Full-Stack Developer | Node.js, Back-End & Git**
 
@@ -8,7 +8,7 @@ Atualmente estou aprendendo **JavaScript, Node.js, Git/GitHub e boas práticas d
 
 ---
 
-## 🚀 Tecnologias e Skills em Estudo
+##  Tecnologias e Skills em Estudo
 - **Front-End / Back-End:** JavaScript, Node.js, Express.js  
 - **Versionamento:** Git, GitHub  
 - **APIs e Banco de Dados:** REST APIs, JSON, MySQL/PostgreSQL (ORMs como Sequelize ou Prisma)  
@@ -18,12 +18,12 @@ Atualmente estou aprendendo **JavaScript, Node.js, Git/GitHub e boas práticas d
 
 ---
 
-## 📂 Projetos
+##  Projetos
 - *(Aqui vou adicionando meus projetos conforme eu os desenvolvo do cronograma)*
 
 ---
 
-## 🌟 Objetivo
+## * Objetivo
 Construir soluções reais e funcionais, evoluindo do zero até aplicações completas, enquanto me preparo para contribuir em equipes que valorizam **inovação, qualidade e eficiência em software**.
 
 ---
